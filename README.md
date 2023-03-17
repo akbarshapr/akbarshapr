@@ -48,12 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/7OMR3y1E9QeY
 
 ### :fire: My Stats :
 
-<div id="header" align="center">
+<div align="center">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akbarshapr&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarshapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
