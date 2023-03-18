@@ -5,11 +5,14 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akbar-sha-pr-b95469254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
+  </a> &nbsp;
   <a href="https://www.instagram.com/akbrsha/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Badge"/ height=30 width=30>
+  </a> &nbsp;
+  <a href="mailto:akbarshapr@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Badge"/ height=30 width=30>
+  </a> &nbsp;
   <br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
@@ -46,11 +49,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/7OMR3y1E9QeY
 ### :fire: My Stats :
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=akbarshapr&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akbarshapr&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarshapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
-
 </div>
