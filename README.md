@@ -20,10 +20,10 @@
 ---
 ### :man_technologist: About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="30"> from India. <br>
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <br>
-:zap: In my free time, I watch animes and tv shows <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="30"> <br>
-:mailbox:How to reach me: <a href="mailto:akbarshapr@gmail.com">
+- _I am a Full Stack Developer <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="30"> from India. <br>_
+- _:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <br>_
+- _:zap: In my free time, I watch animes and tv shows <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="30"> <br>_
+- _:mailbox:How to reach me: <a href="mailto:akbarshapr@gmail.com">_
                             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
                           </a> <br>
 ---
