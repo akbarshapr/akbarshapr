@@ -3,6 +3,16 @@
   <h4><i>Hi there</i> 👋</h4>
   <br>
 </div>
+
+---
+### :man_technologist: About Me
+
+- _I am a Full Stack Developer from India._ <br>
+- _I’m working as a Software Engineer and contributing to frontend and backend for building web applications._ <br>
+- _In my free time, I watch Animes, Tv shows & Movies._ <br>
+
+<div align="center"><p><i>Contact Me</i></p></div> <br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akbar-sha-pr-b95469254/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
@@ -17,15 +27,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
----
-### :man_technologist: About Me
-
-- _I am a Full Stack Developer <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="30"> from India. <br>_
-- _:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <br>_
-- _:zap: In my free time, I watch animes and tv shows <img src="https://media.giphy.com/media/VgGpnYeMVljm1vRA6g/giphy.gif" width="30"> <br>_
-- _:mailbox:How to reach me: <a href="mailto:akbarshapr@gmail.com">_
-                            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
-                          </a> <br>
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
