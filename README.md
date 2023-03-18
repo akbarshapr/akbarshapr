@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width=200 height=200>
   <h4><i>Hi there</i> 👋</h4>
   <br>
-<div id="badges">
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akbar-sha-pr-b95469254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
