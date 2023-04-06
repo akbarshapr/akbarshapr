@@ -6,9 +6,9 @@
 ---
 ### :man_technologist: About Me
 
-- _I am a Full Stack Developer from India._ <br>
-- _I’m working as a Software Engineer and contributing to frontend and backend for building web applications._ <br>
-- _In my free time, I watch Animes, Tv shows & Movies._ <br>
+- I am a Full Stack Developer. <br>
+- I’m working as a Web Developer and contributing to frontend and backend for building web applications. <br>
+- In my free time, I watch Animes, Tv shows & Movies. <br>
 
 <div align="center"><p><i>Contact Me</i></p></div> <br>
 
@@ -22,23 +22,22 @@
   <a href="mailto:akbarshapr@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Badge"/ height=30 width=30>
   </a> &nbsp;
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+</div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio"  alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm"  alt="pycharm" width="40" height="40"/>&nbsp;
