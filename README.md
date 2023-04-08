@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width=200 height=200>
   <h4><i>Hi there</i> 👋</h4>
+  <p><i>Check my <a href="https://akbrsha.netlify.app/">Portfolio</a></i></p>
 </div>
 
 ---
