@@ -14,7 +14,7 @@
 <div align="center"><p><i>Contact Me</i></p></div> <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/akbar-sha-pr-b95469254/">
+  <a href="https://www.linkedin.com/in/akbarsha-pr/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn Badge"/ height=30 width=30>
   </a> &nbsp;
   <a href="https://www.instagram.com/akbrsha/">
