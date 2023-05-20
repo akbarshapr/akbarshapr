@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width=200 height=200>
   <h4><i>Hi there</i> 👋</h4>
-  <p><i>Check my <a href="https://akbrsha.netlify.app/">Portfolio</a></i></p>
+  <p><i>Check out my <a href="https://akbrsha.netlify.app/">Portfolio</a></i></p>
 </div>
 
 ---
@@ -41,18 +41,4 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</div>
-
----
-
-### :fire: My Stats :
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarshapr&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akbarshapr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarshapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
