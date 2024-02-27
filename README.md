@@ -1,8 +1,10 @@
 ### Hi there 👋✨ I'm Akbar Sha
 
 ```
-Software Developer at Tryzens.
-Works on Salesforce Commerce Cloud Platform.
-Love to code, research and learn.
-Cinephile. Anime. Football. ✨
+💻 Software Developer • Programmer • Designer
+🏬 Associate SFCC developer at Tryzens.
+📖 Works on SFCC platform • E-commerce development.
+🎓 BCA @ MGU '2022 • Computer Applications
+📈 Love to code, research and learn.
+💖 Cinephile. Anime. Football. Music. Books ✨
 ```
