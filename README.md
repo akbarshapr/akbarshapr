@@ -1,4 +1,5 @@
 ### Hi there 👋✨ I'm Akbar Sha
+<div style="text-align: center">
 
 ```
 💻 Software Developer • Programmer • Designer
@@ -8,3 +9,5 @@
 📈 Love to code, research and learn.
 💖 Cinephile. Anime. Football. Music. Books ✨
 ```
+
+</div>
