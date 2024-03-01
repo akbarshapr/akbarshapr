@@ -40,7 +40,16 @@
 
 ### My Socials 🌐
 
-<div>
+<div style="display: flex;">
+    <a href="https://www.instagram.com/akbarrr.sha/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/akbarshapr/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://akbarshapr.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
     <a href="https://www.buymeacoffee.com/akbarshapr" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 120px !important;">
     </a>
