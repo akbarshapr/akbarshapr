@@ -50,6 +50,9 @@
     <a href="https://akbarshapr.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
+    <a href="https://open.spotify.com/user/31kasa5e2zob2t7imvqc7nyncmba?si=27035dc10e644dd7">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
     <a href="https://www.buymeacoffee.com/akbarshapr">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 120px !important;">
     </a>
