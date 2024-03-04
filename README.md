@@ -6,7 +6,7 @@
 📖 Works on SFCC platform • E-commerce development.
 🎓 BCA @ MGU '2022 • Computer Applications
 📈 Love to code, research and learn.
-💖 Cinephile. Anime. Football. Music. Books ✨
+💖 Cinephile. Anime. Football. Music. Books
 ```
 
 ### My skills and expertise ✨
