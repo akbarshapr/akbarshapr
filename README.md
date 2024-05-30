@@ -2,11 +2,10 @@
 
 ```
 💻 Software Developer • Programmer • Designer
-🏬 Associate SFCC developer at Tryzens.
-📖 Works on SFCC platform • E-commerce development.
+🏬 Associate developer at Tryzens Global.
 🎓 BCA @ MGU '2022 • Computer Applications
 📈 Love to code, research and learn.
-💖 Cinephile. Anime. Football. Music. Books
+💖 Cinephile. Anime. Football. Music.
 ```
 
 ### My skills and expertise ✨
@@ -41,19 +40,11 @@
 ### My Socials 🌐
 
 <div>
-    <a href="https://www.instagram.com/akbarrr.sha/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
     <a href="https://linkedin.com/in/akbarshapr/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <br />
     <a href="https://akbarshapr.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
-    <a href="https://open.spotify.com/user/31kasa5e2zob2t7imvqc7nyncmba?si=27035dc10e644dd7">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>
-    <a href="https://www.buymeacoffee.com/akbarshapr">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 120px !important;">
     </a>
 </div>
