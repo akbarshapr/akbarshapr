@@ -36,15 +36,3 @@
         <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="5%" alt="Sqlite">
     </div>
 </div>
-
-### My Socials 🌐
-
-<div>
-    <a href="https://linkedin.com/in/akbarshapr/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <br />
-    <a href="https://akbarshapr.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
-</div>
