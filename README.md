@@ -8,7 +8,7 @@
 💖 Cinephile. Anime. Football. Music.
 ```
 
-### My skills and expertise ✨
+### My skills and expertise
 
 <div>
     <div style="display: flex;">
