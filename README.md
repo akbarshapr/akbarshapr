@@ -8,4 +8,3 @@
 📈 Love to code, research and learn.
 💖 Cinephile. Football. Music. Books.
 ```
-![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarshapr&show_icons=true&theme=radical)
