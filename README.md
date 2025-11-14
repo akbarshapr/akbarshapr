@@ -1,4 +1,4 @@
-### Hi there! I'm Akbar Sha PR
+### Hello there! I'm Akbar Sha
 
 ```
 💻 Software Developer • Programmer • Designer
