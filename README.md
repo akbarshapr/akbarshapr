@@ -1,4 +1,4 @@
-### Hello there! I'm Akbar Sha
+### Hey there! I'm Akbar Sha
 ```
 💻 Software Developer • Programmer • Designer
 🏬 Working as Developer at Tryzens Global.
